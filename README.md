@@ -11,3 +11,7 @@ Está programado con C# y utilicé Blender para modelar y animar tanto el person
 Respecto a la música, fue sacada de: Final Fantasy IX, Digimon World 3, Final Fantasy 3 DS, Final Fantasy Tactics y Chrono Trigger.
 
 ![Foto del juego](https://github.com/CirmiFrancis/elearning-total-unity-project/blob/main/screenshotGame.png?raw=true)
+
+Certificado de aprobación del Curso:
+
+![Imagen del certificado](https://raw.githubusercontent.com/CirmiFrancis/elearning-total-unity-project/main/certificate.jpg)
