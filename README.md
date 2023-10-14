@@ -14,4 +14,4 @@ Respecto a la música, fue sacada de: Final Fantasy IX, Digimon World 3, Final F
 
 Certificado de aprobación del Curso:
 
-![Imagen del certificado](https://raw.githubusercontent.com/CirmiFrancis/elearning-total-unity-project/main/certificate.jpg)
+![Imagen del certificado](https://github.com/CirmiFrancis/elearning-total-unity-project/blob/main/certificate.png?raw=true)
